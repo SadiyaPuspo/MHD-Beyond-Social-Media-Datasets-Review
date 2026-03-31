@@ -11,12 +11,6 @@ The labels for data availability are explained below:
 * **RSTR** - The dataset is restricted; access requires formal approval from the data owner or institution.
 * **UNK** - The dataset availability is unknown; the authors do not mention if the data is available to the research community.
 
-## 📖 Citation
-
-
-```
-
----
 
 **Disorder abbreviations:**
 SD - Suicidal, DP - Depression, MinDP - Minor Depression, PD - Postnatal Depression, PTSD - Post Traumatic Stress Disorder, OCD - Obsessive Compulsive Disorder, SMI - Severe Mental Illness, MDD - Major Depressive Disorder, MHD - Mental Health Distress, AjD - Adjustment Disorder, BD - Bipolar Disorder, SZ - Schizophrenia, AX - Anxiety, SDI - Suicidal Ideation, FEP - First Episode Psychosis, DEM - Dementia, PA - Panic Attack
