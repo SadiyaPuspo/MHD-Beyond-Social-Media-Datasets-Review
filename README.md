@@ -78,4 +78,3 @@ EHR - Electronic Health Record, EMR - Electronic Medical Record, DS - Discharge 
 
 ---
 
-For datasets from social media platforms, please refer to [bucuram/depression-datasets-nlp](https://github.com/bucuram/depression-datasets-nlp).
